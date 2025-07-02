@@ -1,0 +1,1 @@
+{"uuid":"624e6461-8c94-4721-856b-026082576409","name":"Suite Customer Test","children":["bb8ba405-5ab8-4a43-81dc-0d763622e662"],"befores":[{"name":"setupEnvironment","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1751438453413,"stop":1751438453430}],"afters":[],"start":1751438453355,"stop":1751438542205}
